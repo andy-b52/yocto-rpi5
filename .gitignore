@@ -1,9 +1,6 @@
-# Third-party layers (cloned by setup-layers.sh)
-/layers/
 
 # Build output, except our two config files
 /build/*
 !/build/conf/
 /build/conf/*
 !/build/conf/local.conf
-!/build/conf/bblayers.conf
