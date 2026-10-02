@@ -4,3 +4,4 @@
 !/build/conf/
 /build/conf/*
 !/build/conf/local.conf
+bitbake-cookerdaemon.log
